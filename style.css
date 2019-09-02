@@ -1,0 +1,62 @@
+html, body {
+  display: inline-block;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  margin: 5px;
+  padding: 5px;
+  
+  font-family: 'Open Sans', sans-serif;
+}
+
+.wrapper {
+  text-align: center;
+}
+
+.center {
+  display: inline-block;
+  justify-content: center;
+  background-color: #8fb4d6;
+}
+
+.center {
+  align-items: center;
+  justify-content: center;
+}
+
+.name {
+  font-family: 'Roboto', sans-serif;
+  margin-bottom: 2px;
+}
+
+.profile-picture {
+    display: inline-block;
+    border-radius: 5%;
+    overflow: hidden;
+}
+
+.personal-statement {
+    background-color: #8fb4d6;
+    padding: 5px;
+}
+
+.curriculum-vitae {
+    font-size: 20px;
+    color: white;
+    background-color: #437fb6;
+}
+
+.curriculum-vitae a {
+    text-decoration: none;
+    padding: 4px;
+    display: inline-block;
+}
+
+.curriculum-vitae a:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.created {
+    font-size: 10px;
+    background-color: #d2e1ee;
+}
