@@ -8,8 +8,8 @@ html,
 }
 
 .profile-picture {
-  display: block;
-  float: left;
+  display: table-cell;
+  min-width: 160px;
   
   background-color: #8fb4d6;
   
@@ -26,8 +26,9 @@ html,
 }
 
 .personal-statement {
-    display: block;
-    margin-left: 51%;
+    display: table-cell;
+    width: 100%;
+    vertical-align: center;
     
     background-color: #8fb4d6;
     
