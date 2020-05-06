@@ -9,19 +9,16 @@ html, body {
 }
 
 .wrapper {
-  text-align: center;
+  
 }
 
 .center {
-  display: inline-block;
+  display: block;
   float: left;
   background-color: #8fb4d6;
 }
 
-.center {
-  align-items: center;
-  justify-content: center;
-}
+
 
 .name {
   font-family: 'Roboto', sans-serif;
@@ -29,7 +26,7 @@ html, body {
 }
 
 .profile-picture {
-    display: inline-block;
+    display: block;
     border-radius: 5%;
     overflow: hidden;
 }
