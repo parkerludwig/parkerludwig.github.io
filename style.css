@@ -1,8 +1,6 @@
 html, body {
   display: inline-block;
-  align-items: center;
-  justify-content: center;
-  height: 100%;
+
   margin: auto;
   
   font-family: 'Open Sans', sans-serif;
