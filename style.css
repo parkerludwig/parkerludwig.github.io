@@ -4,6 +4,7 @@ html,
   display: inline-block;
   justify-content: center;
   background-color: #8fb4d6;
+  align-items: center;
 }
 
 .profile-picture {
@@ -19,6 +20,7 @@ html,
 .name {
   font-family: 'Roboto', sans-serif;
   margin-bottom: 2px;
+  align-items: center;
 }
 
 .personal-statement {
@@ -46,6 +48,7 @@ html,
   align-items: center;
   justify-content: center;
   height: 100%;
+  width: 100%;
   margin: auto;
   font-family: 'Open Sans', sans-serif;
 }
