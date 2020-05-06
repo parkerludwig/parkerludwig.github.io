@@ -21,6 +21,7 @@ html,
   font-family: 'Roboto', sans-serif;
   margin-bottom: 2px;
   align-items: center;
+  display: inline-block;
 }
 
 .personal-statement {
@@ -32,28 +33,32 @@ html,
 }
 
 .wrapper1 {
-  display: inline-block;
+  
   align-items: center;
   justify-content: center;
   height: 100%;
   margin: auto;
   font-family: 'Open Sans', sans-serif;
+  text-align: center;
 }
 
 .wrapper2 {
 }
 
 .wrapper3 {
-  display: inline-block;
+  
   align-items: center;
   justify-content: center;
   height: 100%;
   width: 100%;
   margin: auto;
   font-family: 'Open Sans', sans-serif;
+  background-color: #8fb4d6;
+  text-align: center;
 }
 
 .curriculum-vitae {
+    display: inline-block;
     font-size: 20px;
     color: white;
     background-color: #437fb6;
@@ -70,6 +75,7 @@ html,
 }
 
 .created {
+    display: inline-block;
     font-size: 10px;
     background-color: #d2e1ee;
 }
