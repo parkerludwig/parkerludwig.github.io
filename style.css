@@ -10,7 +10,7 @@ html,
 .profile-picture {
   display: block;
   float: left;
-  width: 100%;
+  width: 50%;
   background-color: #8fb4d6;
   
   border-radius: 5%;
