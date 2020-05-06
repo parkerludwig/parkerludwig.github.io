@@ -43,6 +43,8 @@ html,
 }
 
 .wrapper2 {
+  width: 100%;
+  margin: 5 auto;
 }
 
 .wrapper3 {
@@ -62,6 +64,7 @@ html,
     font-size: 20px;
     color: white;
     background-color: #437fb6;
+    width: 100%;
 }
 
 .curriculum-vitae a {
@@ -78,4 +81,5 @@ html,
     display: inline-block;
     font-size: 10px;
     background-color: #d2e1ee;
+    width: 100%;
 }
