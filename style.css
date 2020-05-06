@@ -10,7 +10,7 @@ html,
 .profile-picture {
   display: block;
   float: left;
-  width: 49%;
+  
   background-color: #8fb4d6;
   
   border-radius: 5%;
@@ -28,7 +28,7 @@ html,
 .personal-statement {
     display: block;
     margin-left: 51%;
-    width: 49%;
+    
     background-color: #8fb4d6;
     
   
