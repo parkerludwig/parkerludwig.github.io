@@ -7,9 +7,13 @@ html,
   align-items: center;
 }
 
+.table-container {
+  width: 100%
+}
+
 .profile-picture {
   display: table-cell;
-  min-width: 160px;
+  
   
   background-color: #8fb4d6;
   
@@ -27,8 +31,8 @@ html,
 
 .personal-statement {
     display: table-cell;
-    width: 100%;
-    vertical-align: center;
+    
+    vertical-align: middle;
     
     background-color: #8fb4d6;
     
