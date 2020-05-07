@@ -1,4 +1,4 @@
-html, 
+html,
 
 .center {
   display: inline-block;
@@ -13,14 +13,10 @@ html,
 
 .profile-picture {
   display: table-cell;
-  
-  
   background-color: #8fb4d6;
-  
   border-radius: 5%;
   overflow: hidden;
 }
-
 
 .name {
   font-family: 'Roboto', sans-serif;
@@ -33,14 +29,10 @@ html,
     display: table-cell;
     text-size-adjust: auto;
     vertical-align: middle;
-    
     background-color: #8fb4d6;
-    
-  
 }
 
 .wrapper1 {
-  
   align-items: center;
   justify-content: center;
   height: 100%;
@@ -49,10 +41,7 @@ html,
   text-align: center;
 }
 
-
-
 .wrapper3 {
-  
   align-items: center;
   justify-content: center;
   height: 100%;
